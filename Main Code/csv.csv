@@ -1,0 +1,267 @@
+,Number,Day,Time,Classroom,Lecturer,Lecture,Type,Number of Students,Classroom Size
+0,0,Monday,9,Classroom A,Paul Vandergrift  ,Subject 1,Lecture,125,150.0
+1,1,Monday,10,Classroom G,Ruth Frew  ,Subject 1,Lecture,125,200.0
+2,2,Monday,11,Classroom H,Tiffani Iannotti  ,Subject 1,Lecture,125,300.0
+3,3,Monday,12,Classroom A,Nisha Pal  ,Subject 1,Lecture,125,150.0
+4,4,Monday,13,Classroom H,Tiffani Iannotti  ,Subject 1,Lecture,125,300.0
+5,5,Monday,14,Classroom B,Lavenia Abdalla  ,Subject 1,Lecture,125,200.0
+6,6,Monday,15,Classroom H,Joi Shriver  ,Subject 1,Lecture,125,300.0
+7,0,Monday,9,Classroom B,Tyesha Gong  ,Subject 2,Lecture,165,200.0
+8,1,Monday,10,Classroom B,Tyesha Gong  ,Subject 2,Lecture,165,200.0
+9,2,Monday,11,Classroom G,Freddie Seabrook  ,Subject 2,Lecture,165,200.0
+10,3,Monday,12,Classroom G,Hobert Pascarella  ,Subject 2,Lecture,165,200.0
+11,4,Monday,13,Classroom G,Jane Courtney ,Subject 2,Lecture,165,200.0
+12,5,Monday,14,Classroom H,Jane Courtney ,Subject 2,Lecture,165,300.0
+13,6,Monday,15,Classroom G,Irina Foose  ,Subject 2,Lecture,165,200.0
+14,0,Monday,9,Classroom G,Tiffani Iannotti  ,Subject 3,Lecture,185,200.0
+15,1,Monday,10,Classroom H,Katherina Boutwell  ,Subject 3,Lecture,185,300.0
+16,2,Monday,11,Classroom B,Eliza Biddle  ,Subject 3,Lecture,185,200.0
+17,3,Monday,12,Classroom B,Waltraud Fill  ,Subject 3,Lecture,185,200.0
+18,4,Monday,13,Classroom B,Eliza Biddle  ,Subject 3,Lecture,185,200.0
+19,5,Monday,14,Classroom G,Eliza Biddle  ,Subject 3,Lecture,185,200.0
+20,6,Monday,15,Classroom B,Katherina Boutwell  ,Subject 3,Lecture,185,200.0
+21,0,Monday,9,Classroom H,Freddie Seabrook  ,Subject 4,Lecture,215,300.0
+22,3,Monday,12,Classroom H,Paul Vandergrift  ,Subject 4,Lecture,215,300.0
+23,7,Monday,16,Classroom H,Paul Vandergrift  ,Subject 4,Lecture,215,300.0
+24,8,Monday,17,Classroom H,Paul Vandergrift  ,Subject 4,Lecture,215,300.0
+25,9,Monday,18,Classroom H,Freddie Seabrook  ,Subject 4,Lecture,215,300.0
+26,10,Monday,19,Classroom H,Eliza Biddle  ,Subject 4,Lecture,215,300.0
+27,11,Monday,20,Classroom H,Ian Hooper  ,Subject 4,Lecture,215,300.0
+28,7,Monday,16,Classroom G,Joi Shriver  ,Subject 5,Lecture,160,200.0
+29,8,Monday,17,Classroom G,Kristle Benshoof  ,Subject 5,Lecture,160,200.0
+30,9,Monday,18,Classroom B,Tyesha Gong  ,Subject 5,Lecture,160,200.0
+31,10,Monday,19,Classroom B,Cathryn Bendel  ,Subject 5,Lecture,160,200.0
+32,11,Monday,20,Classroom B,Kristle Benshoof  ,Subject 5,Lecture,160,200.0
+33,12,Monday,21,Classroom H,Paul Vandergrift  ,Subject 5,Lecture,160,300.0
+34,13,Tuesday,9,Classroom G,Tyesha Gong  ,Subject 5,Lecture,160,200.0
+35,1,Monday,10,Classroom A,Nisha Pal  ,Subject 6,Lecture,125,150.0
+36,2,Monday,11,Classroom A,Tyesha Gong  ,Subject 6,Lecture,125,150.0
+37,4,Monday,13,Classroom A,Kylee Giblin  ,Subject 6,Lecture,125,150.0
+38,5,Monday,14,Classroom A,Joi Shriver  ,Subject 6,Lecture,125,150.0
+39,6,Monday,15,Classroom A,Tyesha Gong  ,Subject 6,Lecture,125,150.0
+40,7,Monday,16,Classroom B,Tyesha Gong  ,Subject 6,Lecture,125,200.0
+41,8,Monday,17,Classroom B,Tyesha Gong  ,Subject 6,Lecture,125,200.0
+42,9,Monday,18,Classroom G,Lavenia Abdalla  ,Subject 7,Lecture,150,200.0
+43,10,Monday,19,Classroom G,Kristle Benshoof  ,Subject 7,Lecture,150,200.0
+44,11,Monday,20,Classroom G,Hobert Pascarella  ,Subject 7,Lecture,150,200.0
+45,12,Monday,21,Classroom B,Lavenia Abdalla  ,Subject 7,Lecture,150,200.0
+46,13,Tuesday,9,Classroom B,Irina Foose  ,Subject 7,Lecture,150,200.0
+47,14,Tuesday,10,Classroom H,Ian Hooper  ,Subject 7,Lecture,150,300.0
+48,15,Tuesday,11,Classroom G,Lavenia Abdalla  ,Subject 7,Lecture,150,200.0
+49,13,Tuesday,9,Classroom H,Katherina Boutwell  ,Subject 8,Lecture,275,300.0
+50,15,Tuesday,11,Classroom H,Hobert Pascarella  ,Subject 8,Lecture,275,300.0
+51,16,Tuesday,12,Classroom H,Kristle Benshoof  ,Subject 8,Lecture,275,300.0
+52,17,Tuesday,13,Classroom H,Joi Shriver  ,Subject 8,Lecture,275,300.0
+53,18,Tuesday,14,Classroom H,Kristle Benshoof  ,Subject 8,Lecture,275,300.0
+54,19,Tuesday,15,Classroom H,Katherina Boutwell  ,Subject 8,Lecture,275,300.0
+55,20,Tuesday,16,Classroom H,Eliza Biddle  ,Subject 8,Lecture,275,300.0
+56,14,Tuesday,10,Classroom B,Paul Vandergrift  ,Subject 9,Lecture,140,200.0
+57,15,Tuesday,11,Classroom A,Ruth Frew  ,Subject 9,Lecture,140,150.0
+58,16,Tuesday,12,Classroom A,Nisha Pal  ,Subject 9,Lecture,140,150.0
+59,17,Tuesday,13,Classroom B,Kristle Benshoof  ,Subject 9,Lecture,140,200.0
+60,18,Tuesday,14,Classroom G,Hobert Pascarella  ,Subject 9,Lecture,140,200.0
+61,19,Tuesday,15,Classroom A,Nisha Pal  ,Subject 9,Lecture,140,150.0
+62,20,Tuesday,16,Classroom B,Hobert Pascarella  ,Subject 9,Lecture,140,200.0
+63,21,Tuesday,17,Classroom H,Waltraud Fill  ,Subject 10,Lecture,260,300.0
+64,22,Tuesday,18,Classroom H,Tyesha Gong  ,Subject 10,Lecture,260,300.0
+65,23,Tuesday,19,Classroom H,Jane Courtney ,Subject 10,Lecture,260,300.0
+66,24,Tuesday,20,Classroom H,Cathryn Bendel  ,Subject 10,Lecture,260,300.0
+67,25,Tuesday,21,Classroom H,Tyesha Gong  ,Subject 10,Lecture,260,300.0
+68,26,Wednesday,9,Classroom H,Cathryn Bendel  ,Subject 10,Lecture,260,300.0
+69,27,Wednesday,10,Classroom H,Paul Vandergrift  ,Subject 10,Lecture,260,300.0
+70,14,Tuesday,10,Classroom G,Cathryn Bendel  ,Subject 11,Lecture,160,200.0
+71,15,Tuesday,11,Classroom B,Katherina Boutwell  ,Subject 11,Lecture,160,200.0
+72,16,Tuesday,12,Classroom G,Nancy Riess  ,Subject 11,Lecture,160,200.0
+73,17,Tuesday,13,Classroom G,Ruth Frew  ,Subject 11,Lecture,160,200.0
+74,18,Tuesday,14,Classroom B,Jane Courtney ,Subject 11,Lecture,160,200.0
+75,19,Tuesday,15,Classroom B,Cathryn Bendel  ,Subject 11,Lecture,160,200.0
+76,20,Tuesday,16,Classroom G,Nisha Pal  ,Subject 11,Lecture,160,200.0
+77,28,Wednesday,11,Classroom H,Hobert Pascarella  ,Subject 12,Lecture,225,300.0
+78,29,Wednesday,12,Classroom H,Nam Mckeller  ,Subject 12,Lecture,225,300.0
+79,30,Wednesday,13,Classroom H,Kristle Benshoof  ,Subject 12,Lecture,225,300.0
+80,31,Wednesday,14,Classroom H,Ruth Frew  ,Subject 12,Lecture,225,300.0
+81,32,Wednesday,15,Classroom H,Waltraud Fill  ,Subject 12,Lecture,225,300.0
+82,33,Wednesday,16,Classroom H,Nisha Pal  ,Subject 12,Lecture,225,300.0
+83,34,Wednesday,17,Classroom H,Kristle Benshoof  ,Subject 12,Lecture,225,300.0
+84,1,Monday,10,Classroom F,Kylee Giblin  ,Subject 13,Lecture,75,90.0
+85,2,Monday,11,Classroom F,Kylee Giblin  ,Subject 13,Lecture,75,90.0
+86,4,Monday,13,Classroom I,Nancy Riess  ,Subject 13,Lecture,75,100.0
+87,5,Monday,14,Classroom I,Tyesha Gong  ,Subject 13,Lecture,75,100.0
+88,6,Monday,15,Classroom F,Ruth Frew  ,Subject 13,Lecture,75,90.0
+89,12,Monday,21,Classroom I,Ruth Frew  ,Subject 13,Lecture,75,100.0
+90,13,Tuesday,9,Classroom F,Cathryn Bendel  ,Subject 13,Lecture,75,90.0
+91,12,Monday,21,Classroom G,Katherina Boutwell  ,Subject 14,Lecture,60,200.0
+92,13,Tuesday,9,Classroom A,Kylee Giblin  ,Subject 14,Lecture,60,150.0
+93,14,Tuesday,10,Classroom A,Lavenia Abdalla  ,Subject 14,Lecture,60,150.0
+94,15,Tuesday,11,Classroom I,Freddie Seabrook  ,Subject 14,Lecture,60,100.0
+95,16,Tuesday,12,Classroom B,Freddie Seabrook  ,Subject 14,Lecture,60,200.0
+96,17,Tuesday,13,Classroom I,Lavenia Abdalla  ,Subject 14,Lecture,60,100.0
+97,18,Tuesday,14,Classroom I,Waltraud Fill  ,Subject 14,Lecture,60,100.0
+98,7,Monday,16,Classroom A,Hobert Pascarella  ,Subject 15,Lecture,140,150.0
+99,8,Monday,17,Classroom A,Lavenia Abdalla  ,Subject 15,Lecture,140,150.0
+100,9,Monday,18,Classroom A,Nancy Riess  ,Subject 15,Lecture,140,150.0
+101,10,Monday,19,Classroom A,Nisha Pal  ,Subject 15,Lecture,140,150.0
+102,11,Monday,20,Classroom A,Nancy Riess  ,Subject 15,Lecture,140,150.0
+103,12,Monday,21,Classroom A,Irina Foose  ,Subject 15,Lecture,140,150.0
+104,21,Tuesday,17,Classroom B,Tiffani Iannotti  ,Subject 15,Lecture,140,200.0
+105,7,Monday,16,Classroom F,Tiffani Iannotti  ,Subject 16,Lecture,60,90.0
+106,8,Monday,17,Classroom F,Hobert Pascarella  ,Subject 16,Lecture,60,90.0
+107,9,Monday,18,Classroom I,Nisha Pal  ,Subject 16,Lecture,60,100.0
+108,10,Monday,19,Classroom F,Katherina Boutwell  ,Subject 16,Lecture,60,90.0
+109,11,Monday,20,Classroom F,Jane Courtney ,Subject 16,Lecture,60,90.0
+110,19,Tuesday,15,Classroom G,Freddie Seabrook  ,Subject 16,Lecture,60,200.0
+111,20,Tuesday,16,Classroom A,Katherina Boutwell  ,Subject 16,Lecture,60,150.0
+112,35,Wednesday,18,Classroom H,Cathryn Bendel  ,Subject 17,Lecture,200,300.0
+113,36,Wednesday,19,Classroom H,Cathryn Bendel  ,Subject 17,Lecture,200,300.0
+114,37,Wednesday,20,Classroom H,Paul Vandergrift  ,Subject 17,Lecture,200,300.0
+115,38,Wednesday,21,Classroom H,Eliza Biddle  ,Subject 17,Lecture,200,300.0
+116,39,Thursday,9,Classroom H,Ian Hooper  ,Subject 17,Lecture,200,300.0
+117,40,Thursday,10,Classroom H,Katherina Boutwell  ,Subject 17,Lecture,200,300.0
+118,41,Thursday,11,Classroom H,Lavenia Abdalla  ,Subject 17,Lecture,200,300.0
+119,28,Wednesday,11,Classroom B,Nancy Riess  ,Subject 18,Lecture,110,200.0
+120,29,Wednesday,12,Classroom G,Lavenia Abdalla  ,Subject 18,Lecture,110,200.0
+121,30,Wednesday,13,Classroom G,Katherina Boutwell  ,Subject 18,Lecture,110,200.0
+122,31,Wednesday,14,Classroom B,Eliza Biddle  ,Subject 18,Lecture,110,200.0
+123,32,Wednesday,15,Classroom G,Freddie Seabrook  ,Subject 18,Lecture,110,200.0
+124,33,Wednesday,16,Classroom A,Lavenia Abdalla  ,Subject 18,Lecture,110,150.0
+125,34,Wednesday,17,Classroom A,Nancy Riess  ,Subject 18,Lecture,110,150.0
+126,21,Tuesday,17,Classroom A,Nam Mckeller  ,Subject 19,Lecture,125,150.0
+127,22,Tuesday,18,Classroom G,Freddie Seabrook  ,Subject 19,Lecture,125,200.0
+128,23,Tuesday,19,Classroom B,Eliza Biddle  ,Subject 19,Lecture,125,200.0
+129,24,Tuesday,20,Classroom B,Nancy Riess  ,Subject 19,Lecture,125,200.0
+130,25,Tuesday,21,Classroom A,Freddie Seabrook  ,Subject 19,Lecture,125,150.0
+131,26,Wednesday,9,Classroom B,Jane Courtney ,Subject 19,Lecture,125,200.0
+132,27,Wednesday,10,Classroom G,Irina Foose  ,Subject 19,Lecture,125,200.0
+133,21,Tuesday,17,Classroom G,Paul Vandergrift  ,Subject 20,Lecture,165,200.0
+134,22,Tuesday,18,Classroom B,Joi Shriver  ,Subject 20,Lecture,165,200.0
+135,23,Tuesday,19,Classroom G,Joi Shriver  ,Subject 20,Lecture,165,200.0
+136,24,Tuesday,20,Classroom G,Paul Vandergrift  ,Subject 20,Lecture,165,200.0
+137,25,Tuesday,21,Classroom G,Lavenia Abdalla  ,Subject 20,Lecture,165,200.0
+138,26,Wednesday,9,Classroom G,Katherina Boutwell  ,Subject 20,Lecture,165,200.0
+139,27,Wednesday,10,Classroom B,Lavenia Abdalla  ,Subject 20,Lecture,165,200.0
+140,7,Monday,16,Classroom I,Jane Courtney ,Subject 21,Lecture,60,100.0
+141,8,Monday,17,Classroom I,Joi Shriver  ,Subject 21,Lecture,60,100.0
+142,9,Monday,18,Classroom F,Joi Shriver  ,Subject 21,Lecture,60,90.0
+143,10,Monday,19,Classroom I,Paul Vandergrift  ,Subject 21,Lecture,60,100.0
+144,11,Monday,20,Classroom I,Eliza Biddle  ,Subject 21,Lecture,60,100.0
+145,12,Monday,21,Classroom F,Waltraud Fill  ,Subject 21,Lecture,60,90.0
+146,13,Tuesday,9,Classroom I,Nisha Pal  ,Subject 21,Lecture,60,100.0
+147,25,Tuesday,21,Classroom B,Jane Courtney ,Subject 22,Lecture,150,200.0
+148,28,Wednesday,11,Classroom G,Nisha Pal  ,Subject 22,Lecture,150,200.0
+149,29,Wednesday,12,Classroom B,Hobert Pascarella  ,Subject 22,Lecture,150,200.0
+150,30,Wednesday,13,Classroom B,Hobert Pascarella  ,Subject 22,Lecture,150,200.0
+151,31,Wednesday,14,Classroom G,Hobert Pascarella  ,Subject 22,Lecture,150,200.0
+152,32,Wednesday,15,Classroom B,Hobert Pascarella  ,Subject 22,Lecture,150,200.0
+153,33,Wednesday,16,Classroom G,Jane Courtney ,Subject 22,Lecture,150,200.0
+154,22,Tuesday,18,Classroom A,Lavenia Abdalla  ,Subject 23,Lecture,125,150.0
+155,23,Tuesday,19,Classroom A,Kristle Benshoof  ,Subject 23,Lecture,125,150.0
+156,24,Tuesday,20,Classroom A,Kristle Benshoof  ,Subject 23,Lecture,125,150.0
+157,26,Wednesday,9,Classroom A,Lavenia Abdalla  ,Subject 23,Lecture,125,150.0
+158,27,Wednesday,10,Classroom A,Kristle Benshoof  ,Subject 23,Lecture,125,150.0
+159,35,Wednesday,18,Classroom G,Lavenia Abdalla  ,Subject 23,Lecture,125,200.0
+160,36,Wednesday,19,Classroom B,Freddie Seabrook  ,Subject 23,Lecture,125,200.0
+161,42,Thursday,12,Classroom H,Nancy Riess  ,Subject 24,Lecture,200,300.0
+162,43,Thursday,13,Classroom H,Joi Shriver  ,Subject 24,Lecture,200,300.0
+163,44,Thursday,14,Classroom H,Ian Hooper  ,Subject 24,Lecture,200,300.0
+164,45,Thursday,15,Classroom H,Freddie Seabrook  ,Subject 24,Lecture,200,300.0
+165,46,Thursday,16,Classroom H,Ian Hooper  ,Subject 24,Lecture,200,300.0
+166,47,Thursday,17,Classroom H,Ian Hooper  ,Subject 24,Lecture,200,300.0
+167,48,Thursday,18,Classroom H,Nam Mckeller  ,Subject 24,Lecture,200,300.0
+168,14,Tuesday,10,Classroom F,Nam Mckeller  ,Subject 25,Lecture,75,90.0
+169,15,Tuesday,11,Classroom F,Jane Courtney ,Subject 25,Lecture,75,90.0
+170,16,Tuesday,12,Classroom F,Nam Mckeller  ,Subject 25,Lecture,75,90.0
+171,17,Tuesday,13,Classroom A,Nisha Pal  ,Subject 25,Lecture,75,150.0
+172,18,Tuesday,14,Classroom F,Eliza Biddle  ,Subject 25,Lecture,75,90.0
+173,19,Tuesday,15,Classroom I,Irina Foose  ,Subject 25,Lecture,75,100.0
+174,20,Tuesday,16,Classroom I,Tiffani Iannotti  ,Subject 25,Lecture,75,100.0
+175,18,Tuesday,14,Classroom A,Paul Vandergrift  ,Subject 26,Lecture,125,150.0
+176,28,Wednesday,11,Classroom A,Ian Hooper  ,Subject 26,Lecture,125,150.0
+177,29,Wednesday,12,Classroom A,Irina Foose  ,Subject 26,Lecture,125,150.0
+178,30,Wednesday,13,Classroom A,Lavenia Abdalla  ,Subject 26,Lecture,125,150.0
+179,31,Wednesday,14,Classroom A,Katherina Boutwell  ,Subject 26,Lecture,125,150.0
+180,32,Wednesday,15,Classroom A,Lavenia Abdalla  ,Subject 26,Lecture,125,150.0
+181,33,Wednesday,16,Classroom B,Katherina Boutwell  ,Subject 26,Lecture,125,200.0
+182,49,Thursday,19,Classroom H,Eliza Biddle  ,Subject 27,Lecture,225,300.0
+183,50,Thursday,20,Classroom H,Tyesha Gong  ,Subject 27,Lecture,225,300.0
+184,51,Thursday,21,Classroom H,Kylee Giblin  ,Subject 27,Lecture,225,300.0
+185,52,Friday,9,Classroom H,Joi Shriver  ,Subject 27,Lecture,225,300.0
+186,53,Friday,10,Classroom H,Freddie Seabrook  ,Subject 27,Lecture,225,300.0
+187,54,Friday,11,Classroom H,Joi Shriver  ,Subject 27,Lecture,225,300.0
+188,55,Friday,12,Classroom H,Eliza Biddle  ,Subject 27,Lecture,225,300.0
+189,14,Tuesday,10,Classroom I,Nisha Pal  ,Subject 28,Lecture,75,100.0
+190,16,Tuesday,12,Classroom I,Hobert Pascarella  ,Subject 28,Lecture,75,100.0
+191,17,Tuesday,13,Classroom F,Irina Foose  ,Subject 28,Lecture,75,90.0
+192,19,Tuesday,15,Classroom F,Joi Shriver  ,Subject 28,Lecture,75,90.0
+193,20,Tuesday,16,Classroom F,Jane Courtney ,Subject 28,Lecture,75,90.0
+194,21,Tuesday,17,Classroom I,Hobert Pascarella  ,Subject 28,Lecture,75,100.0
+195,22,Tuesday,18,Classroom F,Kristle Benshoof  ,Subject 28,Lecture,75,90.0
+196,35,Wednesday,18,Classroom B,Irina Foose  ,Subject 29,Lecture,120,200.0
+197,36,Wednesday,19,Classroom G,Lavenia Abdalla  ,Subject 29,Lecture,120,200.0
+198,37,Wednesday,20,Classroom G,Lavenia Abdalla  ,Subject 29,Lecture,120,200.0
+199,38,Wednesday,21,Classroom A,Irina Foose  ,Subject 29,Lecture,120,150.0
+200,39,Thursday,9,Classroom A,Waltraud Fill  ,Subject 29,Lecture,120,150.0
+201,40,Thursday,10,Classroom G,Waltraud Fill  ,Subject 29,Lecture,120,200.0
+202,41,Thursday,11,Classroom B,Nisha Pal  ,Subject 29,Lecture,120,200.0
+203,21,Tuesday,17,Classroom F,Jane Courtney ,Subject 30,Lecture,75,90.0
+204,22,Tuesday,18,Classroom I,Nam Mckeller  ,Subject 30,Lecture,75,100.0
+205,23,Tuesday,19,Classroom I,Nisha Pal  ,Subject 30,Lecture,75,100.0
+206,24,Tuesday,20,Classroom F,Ruth Frew  ,Subject 30,Lecture,75,90.0
+207,25,Tuesday,21,Classroom I,Ian Hooper  ,Subject 30,Lecture,75,100.0
+208,26,Wednesday,9,Classroom F,Irina Foose  ,Subject 30,Lecture,75,90.0
+209,27,Wednesday,10,Classroom F,Jane Courtney ,Subject 30,Lecture,75,90.0
+210,34,Wednesday,17,Classroom B,Ruth Frew  ,Subject 31,Lecture,125,200.0
+211,35,Wednesday,18,Classroom A,Waltraud Fill  ,Subject 31,Lecture,125,150.0
+212,36,Wednesday,19,Classroom A,Paul Vandergrift  ,Subject 31,Lecture,125,150.0
+213,37,Wednesday,20,Classroom B,Ruth Frew  ,Subject 31,Lecture,125,200.0
+214,38,Wednesday,21,Classroom B,Ruth Frew  ,Subject 31,Lecture,125,200.0
+215,39,Thursday,9,Classroom G,Katherina Boutwell  ,Subject 31,Lecture,125,200.0
+216,40,Thursday,10,Classroom B,Tyesha Gong  ,Subject 31,Lecture,125,200.0
+217,34,Wednesday,17,Classroom G,Nisha Pal  ,Subject 32,Lecture,125,200.0
+218,56,Friday,13,Classroom H,Hobert Pascarella  ,Subject 32,Lecture,125,300.0
+219,57,Friday,14,Classroom B,Jane Courtney ,Subject 32,Lecture,125,200.0
+220,58,Friday,15,Classroom B,Tyesha Gong  ,Subject 32,Lecture,125,200.0
+221,59,Friday,16,Classroom A,Paul Vandergrift  ,Subject 32,Lecture,125,150.0
+222,60,Friday,17,Classroom A,Tyesha Gong  ,Subject 32,Lecture,125,150.0
+223,61,Friday,18,Classroom G,Hobert Pascarella  ,Subject 32,Lecture,125,200.0
+224,23,Tuesday,19,Classroom F,Ian Hooper  ,Subject 33,Lecture,75,90.0
+225,24,Tuesday,20,Classroom I,Nisha Pal  ,Subject 33,Lecture,75,100.0
+226,25,Tuesday,21,Classroom F,Kylee Giblin  ,Subject 33,Lecture,75,90.0
+227,26,Wednesday,9,Classroom I,Kristle Benshoof  ,Subject 33,Lecture,75,100.0
+228,27,Wednesday,10,Classroom I,Tiffani Iannotti  ,Subject 33,Lecture,75,100.0
+229,28,Wednesday,11,Classroom F,Eliza Biddle  ,Subject 33,Lecture,75,90.0
+230,29,Wednesday,12,Classroom F,Eliza Biddle  ,Subject 33,Lecture,75,90.0
+231,1,Monday,10,Classroom I,Freddie Seabrook  ,Subject 34,Lecture,50,100.0
+232,2,Monday,11,Classroom I,Ruth Frew  ,Subject 34,Lecture,50,100.0
+233,4,Monday,13,Classroom F,Ruth Frew  ,Subject 34,Lecture,50,90.0
+234,5,Monday,14,Classroom F,Kylee Giblin  ,Subject 34,Lecture,50,90.0
+235,6,Monday,15,Classroom I,Freddie Seabrook  ,Subject 34,Lecture,50,100.0
+236,35,Wednesday,18,Classroom F,Freddie Seabrook  ,Subject 34,Lecture,50,90.0
+237,36,Wednesday,19,Classroom F,Ian Hooper  ,Subject 34,Lecture,50,90.0
+238,0,Monday,9,Lab A,Joi Shriver  ,Subject 1-Lab,Lab,"['Course 1', 'Course 2', 'Course 3']",
+239,1,Monday,10,Lab A,Joi Shriver  ,Subject 1-Lab,Lab,"['Course 1', 'Course 2', 'Course 3']",
+240,0,Monday,9,Lab D,Irina Foose  ,Subject 2-Lab,Lab,"['Course 4', 'Course 5', 'Course 6']",
+241,1,Monday,10,Lab D,Irina Foose  ,Subject 2-Lab,Lab,"['Course 4', 'Course 5', 'Course 6']",
+242,2,Monday,11,Lab D,Joi Shriver  ,Subject 4-Lab,Lab,"['Course 10', 'Course 11', 'Course 12', 'Course 32', 'Course 36']",
+243,3,Monday,12,Lab D,Joi Shriver  ,Subject 4-Lab,Lab,"['Course 10', 'Course 11', 'Course 12', 'Course 32', 'Course 36']",
+244,0,Monday,9,Lab B,Kylee Giblin  ,Subject 6-Lab,Lab,"['Course 16', 'Course 17', 'Course 18']",
+245,1,Monday,10,Lab B,Kylee Giblin  ,Subject 6-Lab,Lab,"['Course 16', 'Course 17', 'Course 18']",
+246,0,Monday,9,Lab F,Nisha Pal  ,Subject 8-Lab,Lab,"['Course 7', 'Course 16', 'Course 22', 'Course 23', 'Course 24']",
+247,1,Monday,10,Lab F,Nisha Pal  ,Subject 8-Lab,Lab,"['Course 7', 'Course 16', 'Course 22', 'Course 23', 'Course 24']",
+248,4,Monday,13,Lab D,Tyesha Gong  ,Subject 10-Lab,Lab,"['Course 14', 'Course 28', 'Course 29', 'Course 30']",
+249,5,Monday,14,Lab D,Tyesha Gong  ,Subject 10-Lab,Lab,"['Course 14', 'Course 28', 'Course 29', 'Course 30']",
+250,6,Monday,15,Lab D,Kristle Benshoof  ,Subject 12-Lab,Lab,"['Course 12', 'Course 34', 'Course 35', 'Course 36']",
+251,7,Monday,16,Lab D,Kristle Benshoof  ,Subject 12-Lab,Lab,"['Course 12', 'Course 34', 'Course 35', 'Course 36']",
+252,2,Monday,11,Lab F,Nisha Pal  ,Subject 13-Lab,Lab,"['Course 11', 'Course 33']",
+253,3,Monday,12,Lab F,Nisha Pal  ,Subject 13-Lab,Lab,"['Course 11', 'Course 33']",
+254,2,Monday,11,Lab B,Nancy Riess  ,Subject 15-Lab,Lab,"['Course 9', 'Course 31']",
+255,3,Monday,12,Lab B,Nancy Riess  ,Subject 15-Lab,Lab,"['Course 9', 'Course 31']",
+256,0,Monday,9,Lab E,Ian Hooper  ,Subject 17-Lab,Lab,"['Course 14', 'Course 29']",
+257,1,Monday,10,Lab E,Ian Hooper  ,Subject 17-Lab,Lab,"['Course 14', 'Course 29']",
+258,4,Monday,13,Lab B,Waltraud Fill  ,Subject 21-Lab,Lab,"['Course 3', 'Course 25']",
+259,5,Monday,14,Lab B,Waltraud Fill  ,Subject 21-Lab,Lab,"['Course 3', 'Course 25']",
+260,0,Monday,9,Lab C,Cathryn Bendel  ,Subject 23-Lab,Lab,"['Course 1', 'Course 23', 'Course 36']",
+261,1,Monday,10,Lab C,Cathryn Bendel  ,Subject 23-Lab,Lab,"['Course 1', 'Course 23', 'Course 36']",
+262,8,Monday,17,Lab D,Ian Hooper  ,Subject 30-Lab,Lab,"['Course 8', 'Course 16']",
+263,9,Monday,18,Lab D,Ian Hooper  ,Subject 30-Lab,Lab,"['Course 8', 'Course 16']",
+264,2,Monday,11,Lab C,Hobert Pascarella  ,Subject 32-Lab,Lab,"['Course 10', 'Course 14']",
+265,3,Monday,12,Lab C,Hobert Pascarella  ,Subject 32-Lab,Lab,"['Course 10', 'Course 14']",
